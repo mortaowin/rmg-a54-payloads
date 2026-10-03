@@ -4,16 +4,24 @@
     {
       "payloadId": "a54x-A546EXXSNFZI1",
       "displayName": "Galaxy A54 | Kernel 5.15.189 (SNFZI1)",
-      "models": ["SM-A546E", "SM-A546B", "SM-A546S", "SM-A5460"],
-      "kernelVersions": ["5.15.189"],
+      "models": [
+        "SM-A546E",
+        "SM-A546B",
+        "SM-A546S",
+        "SM-A5460"
+      ],
+      "kernelVersions": [
+        "5.15.189"
+      ],
       "exploit": {
         "url": "https://raw.githubusercontent.com/mortaowin/rmg-a54-payloads/main/artifacts/a54x-A546EXXSNFZI1/cve-2026-43499-app.so",
-        "size": 131816
+        "size": 131992
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/mortaowin/rmg-a54-payloads/main/kernelsu/ksud-a54x-A546EXXSKFZF4-kdp",
-        "size": 131816
-      }
+        "size": 3828432
+      },
+      "requiresFreshP0Session": true
     }
   ]
 }
