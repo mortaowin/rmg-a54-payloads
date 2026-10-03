@@ -8,7 +8,7 @@
       "kernelVersions": ["5.15.189"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/mortaowin/rmg-a54-payloads/main/artifacts/a54x-A546EXXSNFZI1/cve-2026-43499-app.so",
-        "size": 132008
+        "size": 131816
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/mortaowin/rmg-a54-payloads/main/kernelsu/ksud-a54x-A546EXXSKFZF4-kdp",
